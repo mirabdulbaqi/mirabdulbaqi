@@ -35,8 +35,7 @@ I enjoy working with data, building machine learning projects, and learning how 
 ### 🔗 Connect With Me
 
 * 💼 **LinkedIn:** www.linkedin.com/in/mir-abdul-baqi-baloch-offical
-* 📊 **Kaggle:** Add your Kaggle profile
-* 📧 **Email:** Add your professional email
+* 📧 **Email:** mirabdulbaqi1@gmail.com
 
 ### 🎯 Career Goal
 
